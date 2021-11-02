@@ -1,5 +1,5 @@
 #### &#x1f4c8; Link shortener project
-<a href="https://silverwolfceh.github.io/">
+<a href="https://silverwolfceh.github.io/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silverwolfceh&repo=silverwolfceh.github.io" />
 </a>
 
