@@ -3,6 +3,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silverwolfceh&repo=silverwolfceh.github.io" />
 </a>
 
+#### &#x1f4c8; What I am doing?
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=silverwolfceh"/>
+</a>
 
 #### &#x1f4c8; My GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=silverwolfceh&theme=graywhite"/>
