@@ -1,7 +1,4 @@
-#### &#x1f4c8; What I am doing?
-<a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=silverwolfceh"/>
-</a>
+Contact for work: **tongvuu@gmail.com**
 
 #### &#x1f4c8; My GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=silverwolfceh&theme=graywhite"/>
@@ -32,4 +29,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silverwolfceh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="silverwolfceh" /> </p>
 
-Contact for work: **tongvuu@gmail.com**
+
