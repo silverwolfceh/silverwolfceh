@@ -22,10 +22,6 @@ Contact for work: **tongvuu@gmail.com**
 
 
 #### &#x1f4c8; Misc
-<div>
-<a href="https://silverwolfceh.github.io/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silverwolfceh&repo=silverwolfceh.github.io" />
-</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silverwolfceh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="silverwolfceh" /> </p>
 </div>
