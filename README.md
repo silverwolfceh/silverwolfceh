@@ -11,12 +11,12 @@ Contact for work: **tongvuu@gmail.com**
 
 #### &#x1f4c8; My favorite repos
 <div>
-<a href="https://github.com/silverwolfceh/QHashCatGui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silverwolfceh&repo=QHashCatGui" />
+<a href="https://github.com/anbusystem/autoairdrop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anbusystem&repo=AutoClaimAirdrop" />
 </a>
 
-<a href="https://github.com/silverwolfceh/raspiwifi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silverwolfceh&repo=raspiwifi" />
+<a href="https://github.com/silverwolfceh/autoclaimocean">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=silverwolfceh&repo=AutoClaimOceanWave" />
 </a>
 </div>
 
