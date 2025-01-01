@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://t.me/@themeoware">
+  <a href="https://t.me/@applemeomeow">
     <img src="https://img.shields.io/badge/applemeomeo-black?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <a href="https://www.facebook.com/wolf.xforce/">
