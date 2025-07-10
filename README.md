@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/wolf.xforce/">
     <img src="https://img.shields.io/badge/wolf.xforce-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="mailto:ericvuuvan@gmail.com">
+  <a href="mailto:ericvuuvan@gmail.com?subject=[FromGH]..">
     <img src="https://img.shields.io/badge/ericvuuvan-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
