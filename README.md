@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://t.me/@applemeomeow">
-    <img src="https://img.shields.io/badge/applemeomeo-black?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  <a href="https://www.linkedin.com/in/tongvuu/">
+    <img src="https://custom-icon-badges.demolab.com/badge/tongvuu-073F77?logo=linkedin-white&logoColor=fff" alt="Linkedin Badge"/>
   </a>
   <a href="https://www.facebook.com/wolf.xforce/">
     <img src="https://img.shields.io/badge/wolf.xforce-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/>
