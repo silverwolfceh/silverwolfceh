@@ -5,10 +5,10 @@
     <img src="https://custom-icon-badges.demolab.com/badge/tongvuu-073F77?logo=linkedin-white&logoColor=fff" alt="Linkedin Badge"/>
   </a>
   <a href="https://www.facebook.com/wolf.xforce/">
-    <img src="https://img.shields.io/badge/wolf.xforce-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/wolf.xforce-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="mailto:ericvuuvan@gmail.com">
-    <img src="https://img.shields.io/badge/contact%20me-black?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/ericvuuvan-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
