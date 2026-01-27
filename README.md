@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fasthand&size=30&duration=2000&pause=100&center=true&multiline=true&repeat=false&width=500&height=270&lines=Hi%2C+how%E2%80%99s+your+day+going%3F;I%E2%80%99m+really+glad+you%E2%80%99re+reading+this.;I%E2%80%99m+Eric%E2%80%94definitely+a+code-aholic.;I+can+code+and+vibe-code+too+^^;I+have+a+strong+passion+for+automation.;Want+to+meet+-+invite+-+contact+me%3F+;Refer+below+method)](https://git.io/typing-svg)
 
 <div id="header" align="center">
 <div id="badges">
